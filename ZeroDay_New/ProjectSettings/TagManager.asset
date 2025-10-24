@@ -3,11 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - lineDoor
-  - End
-  - MoveObj
-  - Level
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -15,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - Line
-  - NormalImage
+  - 
+  - 
   - 
   - 
   - 
@@ -44,10 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Line
-    uniqueID: 691894401
-    locked: 0
-  - name: NormalImage
-    uniqueID: 4089958881
     locked: 0
